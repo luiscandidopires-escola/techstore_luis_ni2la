@@ -1,7 +1,13 @@
 /* Fonte e cores gerais */
 body {
 font-family: Arial, sans-serif;
-background-color:#3974eb;
+background-color:#fcfcfc;
 color: #222;
 margin: 0;
+}
+
+/* Tirar as bordas "de planilha" */
+table, td {
+border: none;
+border-collapse: collapse;
 }
