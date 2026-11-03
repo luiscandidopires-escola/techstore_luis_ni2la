@@ -11,3 +11,13 @@ table, td {
 border: none;
 border-collapse: collapse;
 }
+
+/*Titulos com a cor da loja*/
+h1, h2 { color:#ffffff; }
+
+/* Links sem sublinhado */
+a {
+color: #ffffff;
+text-decoration: none;
+font-weight: bold;
+}
