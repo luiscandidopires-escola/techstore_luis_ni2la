@@ -1,7 +1,7 @@
 /* Fonte e cores gerais */
 body {
 font-family: Arial, sans-serif;
-background-color:rgb(247, 247, 247);
+background-color:rgb(252, 188, 51);
 color: #1f59f8;
 margin: 0;
 }
@@ -13,11 +13,11 @@ border-collapse: collapse;
 }
 
 /*Titulos com a cor da loja*/
-h1, h2 { color:#ffffff; }
+h1, h2 { color:#1f59f8; }
 
 /* Links sem sublinhado */
 a {
-color: #ffffff;
+color: #1f59f8;
 text-decoration: none;
 font-weight: bold;
 }
